@@ -1,3 +1,6 @@
+# Project folders to be stored locally but not in version control
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
